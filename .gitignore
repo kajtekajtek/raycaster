@@ -27,3 +27,6 @@
 *.su
 *.idb
 *.pdb
+
+*.ppm
+*.swp
